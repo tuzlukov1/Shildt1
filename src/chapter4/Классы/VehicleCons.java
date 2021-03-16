@@ -32,6 +32,15 @@ class VehConsDemo {
         VehiclePreFinal sportcar = new VehiclePreFinal(2,14,12);
 
         double gallons;
-        int dist;
+        int dist = 252;
+
+        gallons = minivan.fuelNeeded(dist);
+
+        System.out.println("Для преодоления " + dist + " миль, мини фургону потребуется "
+                            + gallons + " галлонов топлива. ");
+
+        gallons = sportcar.fuelNeeded(dist);
+        System.out.println("Для преодоления " + dist + " миль, спорткару потребуется "
+                + gallons + " галлонов топлива. ");
     }
 }
