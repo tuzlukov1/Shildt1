@@ -2,14 +2,14 @@ package chapter5;
 
 public class MinMax {
     public static void main(String[] args) {
-        int nums[] = new int[10];
+        int[] nums = new int[10];
         int min,max;
 
         nums[0] = 99;
         nums[1] = -10;
         nums[2] = 100123;
         nums[3] = 18;
-        nums[4] = -974;
+        nums[4] = -970;
         nums[5] = 5623;
         nums[6] = 463;
         nums[7] = -9;
