@@ -9,7 +9,7 @@ public class MinMax {
         nums[1] = -10;
         nums[2] = 100123;
         nums[3] = 18;
-        nums[4] = -978;
+        nums[4] = -973;
         nums[5] = 5623;
         nums[6] = 463;
         nums[7] = -9;
