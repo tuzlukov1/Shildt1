@@ -1,5 +1,5 @@
-package chapter5;
-
+package chapter5.Массивы;
+//поиск минимального и максимального значений в массиве
 public class MinMax {
     public static void main(String[] args) {
         int[] nums = new int[10];

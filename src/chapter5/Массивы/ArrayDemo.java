@@ -1,4 +1,4 @@
-package chapter5;
+package chapter5.Массивы;
 
 public class ArrayDemo {
     public static void main(String[] args) {
