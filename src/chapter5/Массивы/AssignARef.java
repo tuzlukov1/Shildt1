@@ -1,6 +1,6 @@
 package chapter5.ћассивы;
 
-import java.util.Arrays;
+//присваивание ссылок на массивы
 
 public class AssignARef {
     public static void main(String[] args) {
@@ -43,9 +43,6 @@ public class AssignARef {
         for (i = 0;  i < 10; i++)
             System.out.print(nums1[i] + " ");
         System.out.println();
-
-
-
 
     }
 }
