@@ -11,6 +11,7 @@ public class LengthDemo {
                 {4, 5},
                 {6, 7, 8, 9}
         };
+
         System.out.println("Размер list: " + list.length);
         System.out.println("Размер nums: " + nums.length);
         System.out.println("Размер table: " + table.length);
