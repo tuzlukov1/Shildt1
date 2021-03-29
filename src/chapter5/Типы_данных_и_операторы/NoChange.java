@@ -1,4 +1,4 @@
-package chapter5.ћассивы;
+package chapter5.“ипы_данных_и_операторы;
 //циклы типа for-each предназначены только дл€ чтени€
 
 public class NoChange {

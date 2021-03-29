@@ -1,4 +1,4 @@
-package chapter5.Массивы;
+package chapter5.Типы_данных_и_операторы;
 //Применение инициализаторов массива
 public class MinMax2 {
     public static void main(String[] args) {

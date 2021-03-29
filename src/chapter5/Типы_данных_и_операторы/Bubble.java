@@ -1,4 +1,4 @@
-package chapter5.Массивы;
+package chapter5.Типы_данных_и_операторы;
 //Демонстрация алгоритма пузырьковой сортировки
 
 public class Bubble {

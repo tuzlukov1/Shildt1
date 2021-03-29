@@ -1,4 +1,4 @@
-package chapter5.Массивы;
+package chapter5.Типы_данных_и_операторы;
 //использование расширенного цикла for для обработки двумерного массива
 
 public class ForEach2 {

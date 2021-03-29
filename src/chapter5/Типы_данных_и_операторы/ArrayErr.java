@@ -1,4 +1,4 @@
-package chapter5.Массивы;
+package chapter5.Типы_данных_и_операторы;
 //Намеренный выход за пределы массива
 public class ArrayErr {
     public static void main(String[] args) {

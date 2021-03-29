@@ -1,4 +1,4 @@
-package chapter5.ћассивы;
+package chapter5.“ипы_данных_и_операторы;
 //поиск минимального и максимального значений в массиве
 public class MinMax {
     public static void main(String[] args) {

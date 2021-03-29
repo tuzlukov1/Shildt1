@@ -1,4 +1,4 @@
-package chapter5.Массивы;
+package chapter5.Типы_данных_и_операторы;
 //использование цикла типа for-each
 public class ForEach {
     public static void main(String[] args) {

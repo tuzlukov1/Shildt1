@@ -1,4 +1,4 @@
-package chapter5.Массивы;
+package chapter5.Типы_данных_и_операторы;
 //демонстрация использования переменной экземпляра length
 
 public class LengthDemo {

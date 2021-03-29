@@ -1,4 +1,4 @@
-package chapter5.Массивы;
+package chapter5.Типы_данных_и_операторы;
 //Пример использования переменной length для копирования массивов
 public class ACopy {
     public static void main(String[] args) {
