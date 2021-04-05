@@ -1,5 +1,5 @@
 package chapter5.Digits;
-
+//преобразование строчных букв английского алфавита в прописные
 public class UpCase {
     public static void main(String[] args) {
         char ch;
@@ -12,7 +12,6 @@ public class UpCase {
             //после этого в переменной ch будет храниться код.
             //Символа прописной группы.
             ch = (char) ((int)ch & 65503);
-
             System.out.print(ch + " ");
         }
     }
