@@ -1,0 +1,21 @@
+package JavaRush;
+
+import java.util.Scanner;
+
+/*
+Тепло или холодно
+*/
+
+public class Temp {
+    public static void main(String[] args) {
+        String cold = "на улице холодно";
+        String warm = "на улице тепло";
+        //напишите тут ваш код
+        Scanner sc = new Scanner(System.in);
+        int temp = sc.nextInt();
+        if(temp<0)
+            System.out.println("на улице холодно");
+        else
+            System.out.println("на улице тепло");
+    }
+}
