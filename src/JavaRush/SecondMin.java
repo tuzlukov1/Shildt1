@@ -19,7 +19,6 @@ public class SecondMin {
             if((min<ch)&&(ch<minres)){
                 minres = ch;
             }
-
         }
         System.out.println(minres);
     }
